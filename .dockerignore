@@ -2,4 +2,7 @@ node_modules
 .turbo
 dist
 .env
+.git
+.commits
 bun.lock
+*.md
